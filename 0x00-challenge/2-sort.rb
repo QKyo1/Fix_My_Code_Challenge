@@ -20,7 +20,7 @@ ARGV.each do |arg|
         if result[i] < i_arg
             i += 1
         else
-            result.insert(iruby 2-sort.rb 12 41 2 C 9 -9 31 fun -1 32, i_arg)
+            result.insert(i, i_arg)
             is_inserted = true
             break
         end
